@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562760851726",
+    "firebase_url": "https://hi-news-9cb06.firebaseio.com",
+    "project_id": "hi-news-9cb06",
+    "storage_bucket": "hi-news-9cb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562760851726:android:ac000e192e494ed2",
+        "android_client_info": {
+          "package_name": "com.example.amrgamal.hi_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562760851726-uusids2dkvi52l85lesbs96qp9r52q0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amrgamal.hi_news",
+            "certificate_hash": "346ffe6dc72a3f9f036ea15ef187f004fd17dbe9"
+          }
+        },
+        {
+          "client_id": "562760851726-f22nmr5e6rdfutj87js8rj1j17k37qiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WKk1VFIiLWekqzec7SQu2FKvhjgF4Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562760851726-f22nmr5e6rdfutj87js8rj1j17k37qiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
